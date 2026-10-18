@@ -1,0 +1,18 @@
+[
+  {"machine": "A", "item": "Chips", "price_cents": 150, "quantity": 3, "date": "2026-10-17"},
+  {"machine": "A", "item": "Soda", "price_cents": 125, "quantity": 4, "date": "2026-10-17"},
+  {"machine": "A", "item": "Candy", "price_cents": 100, "quantity": 2, "date": "2026-10-17"},
+  {"machine": "B", "item": "Chips", "price_cents": 150, "quantity": 5, "date": "2026-10-17"},
+  {"machine": "B", "item": "Soda", "price_cents": 200, "quantity": 2, "date": "2026-10-17"},
+  {"machine": "B", "item": "Water", "price_cents": 100, "quantity": 6, "date": "2026-10-17"},
+  {"machine": "C", "item": "Chips", "price_cents": 175, "quantity": 1, "date": "2026-10-17"},
+  {"machine": "C", "item": "Candy", "price_cents": 100, "quantity": 3, "date": "2026-10-17"},
+  {"machine": "C", "item": "Soda", "price_cents": 125, "quantity": 1, "date": "2026-10-17"},
+  {"machine": "A", "item": "Water", "quantity": 2, "date": "2026-10-17"},
+  {"machine": "B", "item": "Candy", "price_cents": 0, "quantity": 4, "date": "2026-10-17"},
+  {"machine": "C", "item": "Water", "price_cents": 100, "quantity": -2, "date": "2026-10-17"},
+  {"machine": "A", "item": "Chips", "price_cents": 150, "quantity": 2, "date": "2026-10-18"},
+  {"machine": "A", "item": "Chips", "price_cents": 150, "quantity": 3, "date": "2026-10-17"},
+  {"machine": "C", "item": "Water", "price_cents": 60, "quantity": 2, "date": "2026-10-17"},
+  {"machine": "A", "item": "Water", "price_cents": 100, "quantity": 1, "date": "2026-10-18"}
+]

@@ -1,0 +1,6 @@
+[
+  {"machine": "A", "item": "Soda", "price_cents": 125, "quantity": 3, "date": "2026-10-18"},
+  {"machine": "B", "item": "Chips", "price_cents": 150, "quantity": 4, "date": "2026-10-18"},
+  {"machine": "B", "item": "Soda", "price_cents": 125, "quantity": 5, "date": "2026-10-18"},
+  {"machine": "A", "item": "Chips", "price_cents": 150, "quantity": 2, "date": "2026-10-18"}
+]

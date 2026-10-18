@@ -1,0 +1,103 @@
+{
+  "validation": {
+    "rejected_count": 0,
+    "rejected": []
+  },
+  "inserted": 3,
+  "revenue": [
+    {
+      "machine": "B",
+      "items": 3,
+      "revenue_cents": 2975
+    },
+    {
+      "machine": "A",
+      "items": 4,
+      "revenue_cents": 1925
+    },
+    {
+      "machine": "C",
+      "items": 4,
+      "revenue_cents": 720
+    }
+  ],
+  "anomalies": [
+    {
+      "machine": "B",
+      "item": "Soda",
+      "date": "2026-10-17",
+      "recorded_cents": 200,
+      "expected_cents": 125
+    },
+    {
+      "machine": "C",
+      "item": "Water",
+      "date": "2026-10-17",
+      "recorded_cents": 60,
+      "expected_cents": 100
+    }
+  ],
+  "restock": {
+    "A": [
+      {
+        "item": "Soda",
+        "sold": 7,
+        "restock": 7
+      },
+      {
+        "item": "Chips",
+        "sold": 5,
+        "restock": 5
+      },
+      {
+        "item": "Candy",
+        "sold": 2,
+        "restock": 2
+      },
+      {
+        "item": "Water",
+        "sold": 1,
+        "restock": 1
+      }
+    ],
+    "B": [
+      {
+        "item": "Chips",
+        "sold": 9,
+        "restock": 9
+      },
+      {
+        "item": "Soda",
+        "sold": 7,
+        "restock": 7
+      },
+      {
+        "item": "Water",
+        "sold": 6,
+        "restock": 6
+      }
+    ],
+    "C": [
+      {
+        "item": "Candy",
+        "sold": 3,
+        "restock": 3
+      },
+      {
+        "item": "Water",
+        "sold": 2,
+        "restock": 2
+      },
+      {
+        "item": "Chips",
+        "sold": 1,
+        "restock": 1
+      },
+      {
+        "item": "Soda",
+        "sold": 1,
+        "restock": 1
+      }
+    ]
+  }
+}
